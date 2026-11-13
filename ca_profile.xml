@@ -1,0 +1,16 @@
+<CommunityApplications>
+  <Profile>
+**DebridDownloader** is a downloader for Real-Debrid, TorBox, Premiumize and AllDebrid. Add a
+magnet or a .torrent file, pick the files you want, and they download to your server over several
+connections at once, resuming after dropped connections and restarts.
+
+The container here is the headless DebridDownloader: the same download engine as the desktop app,
+with its interface in your browser on port 8777.
+
+DebridDownloader is free and open source (GPL-3.0), with desktop apps for macOS, Windows and Linux.
+
+Support: https://github.com/CasaVargas/DebridDownloader/issues
+  </Profile>
+  <Icon>https://raw.githubusercontent.com/CasaVargas/debriddownloader-unraid/main/icon.png</Icon>
+  <WebPage>https://github.com/CasaVargas/DebridDownloader</WebPage>
+</CommunityApplications>
